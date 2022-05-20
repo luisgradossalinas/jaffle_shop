@@ -1,4 +1,4 @@
-name: 'dwh'
+name: 'jaffle_shop'
 version: '0.1'
 profile: 'dwh'
 config-version: 2
