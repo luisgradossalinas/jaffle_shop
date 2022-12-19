@@ -1,5 +1,5 @@
 name: 'dwh'
-version: '0.1'
+version: '1.0.0'
 profile: 'jaffle_shop'
 config-version: 2
 
@@ -14,8 +14,6 @@ clean-targets:
     - "target"
     - "dbt_modules"
     - "logs"
-
-require-dbt-version: [">=0.21.1"]
 
 models:
   dwh:
